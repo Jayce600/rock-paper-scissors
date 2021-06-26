@@ -1,0 +1,58 @@
+
+.vertical-div {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
+.horizontal-div {
+    margin: auto;
+    width: 550px;
+    text-align: center;
+}
+
+.rock-img {
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+}
+
+.rock-img:hover {
+    background-color: #e14318;
+}
+
+.paper-img {
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+}
+
+
+.paper-img:hover {
+    background-color: #e14318;
+}
+
+.scissors-img {
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+}
+
+
+.scissors-img:hover {
+    background-color: #e14318;
+}
+
+.game-over {
+    display: none;
+}
+
