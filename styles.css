@@ -56,3 +56,16 @@
     display: none;
 }
 
+.resultPane {
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    top: 100px;
+}
+
+.player {
+    float: left;
+}
+.computer {
+    float: right;
+}
